@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Ronald Waller 	rwaller@gmail.com	@rwaller
 
 # THANKS
 
