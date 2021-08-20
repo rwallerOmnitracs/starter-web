@@ -1,2 +1,6 @@
 log/
 *.orig
+*BACKUP*
+*BASE*
+*LOCAL*
+*REMOTE*
