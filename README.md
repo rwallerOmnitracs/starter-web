@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-2021 TakingTraining
+2021 TakingTraining. All rights reserved.
